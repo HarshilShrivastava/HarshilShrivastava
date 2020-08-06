@@ -1,6 +1,5 @@
 ### Hi there, I'm Harshil Shrivastava  👋
 
-## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently a student 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

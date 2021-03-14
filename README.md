@@ -2,8 +2,7 @@
 
 - 🔭 I am currently a student 
 - 🌱 I am currently learning everything 🤣
-- 👯 I am looking to collaborate with others
-- 🥅 2020 Goal: Contribute more to Open Source projects
+- 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read comics and ride bike
 
 ---

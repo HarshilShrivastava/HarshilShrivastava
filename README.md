@@ -1,7 +1,7 @@
 ### Hi there, I'm Harshil Shrivastava  👋
 
 - 🌱 I am currently learning everything 🤣
-- 🥅 2021 Goal: Contribute more to Open Source projects
+- 🥅 2023 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read comics and ride bike
 
 ---
